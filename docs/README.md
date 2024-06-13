@@ -9,7 +9,7 @@ Anne Bozack is an Instructor in the Department of Epidemiology and Population He
 
 - [About](about.md)
 - [Publications](publications.md)
-- [Limitations](limitations.md)
+- [Packages](packages.md)
 - [What about a Wiki?](wiki.md)
 
 
