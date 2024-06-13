@@ -2,6 +2,8 @@
 
 **Bozack AK**, Rifas-Shiman SL, Baccarelli AA, Wright RO, Gold DR, Oken E, Hivert M-F, Cardenas A. (2024) Associations of prenatal one-carbon metabolism nutrients and metals with epigenetic aging biomarkers at birth and in childhood in a US cohort. *Aging*, 16(4):3107-3136. PCMID: [10929819](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10929819/).
 
+**Bozack AK**, Navas-Acien A, Cardenas A. (2024) DNA methylation-based biomarkers of protein levels and cardiovascular disease risk: opportunities and challenges for precision cardiology. *Circ Genom Precis Med*, online ahead of print. PMCID: [11021153](https://pubmed.ncbi.nlm.nih.gov/38348680/). 
+
 **Bozack AK**,* Collender P,* Veazie S, Nwanaji-Enwerem JC, Van Der Laan L, Kogut K, Riddell C, Eskenazi B, Holland N, Deardorff J, Cardenas A. (2023) Maternal adverse childhood experiences (ACEs) and DNA methylation of newborns in cord blood. *Clin Epigenetics*, 15(1):162. PMCID: [10577922](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10577922/). *These authors are joint first authors.
 
 **Bozack AK**, Rifas-Shiman SL, Gold DR, Laubach AM, Perng W, Hivert M-F, Cardenas A. (2023) DNA methylation age at birth and childhood: performance of epigenetic clocks and characteristics associated with epigenetic age acceleration in the Project Viva cohort. *Clin Epigenetics*, 15(1):62. PMCID: [10099681](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10099681/).
@@ -32,4 +34,39 @@ Lee AG, Tignor N, Cowell W, Colicino E, **Bozack A**, Baccarelli AA, Wang P, Wri
 
 **Bozack AK**, Rifas‑Shiman SL, Coull BA, Baccarelli AA, Wright RO, Amarasiriwardena C, Gold DR, Oken E, Hivert M-F, Cardenas A. (2021) Prenatal metal exposure, cord blood DNA methylation and persistence in childhood: an epigenome-wide association study of 12 metals. *Clin Epigenetics*, 13(1):208. PMCID: [34798907](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8605513/). 
 
+**Bozack AK**, Boileau P, Wei L, Hubbard AE, Sillé FCM, Ferreccio C, Acevedo J, Hou L, Ilievski V, Steinmaus CM, Smith MT, Navas-Acien A, Gamble MV, Cardenas A. (2021) Exposure to arsenic at different life-stages and DNA methylation meta-analysis in buccal cells and leukocytes. *Environ Health*, 9;20(1):79. PMCID: [34243768](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8272372/).  
+
 **Bozack AK**, Colicino E, Just AC, Wright RO, Baccarelli AA, Wright RL, Lee AG. (2021) Associations between infant sex and DNA methylation across umbilical cord blood, artery, and placenta samples. *Epigenetics*, 17(10):1080-1097. PMCID: [34569420](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc9542631/).
+                    
+**Bozack AK**, Colicino E, Rodosthenous R, Bloomquist TR, Baccarelli AA, Wright RO, Wright RJ, Lee AG. (2021) Associations between maternal lifetime stressors and negative events in pregnancy and breast milk-derived extracellular vesicle microRNAs in the PRogramming of Intergenerational Stress Mechanisms (PRISM) pregnancy cohort. *Epigenetics*, 16(4):389-404. PMCID: [32777999](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7996083/).
+
+**Bozack AK**, Howe CG, Hall MN, Liu X, Slavkovich V, Ilievski V, Lomax-Luu AM, Parvez F, Siddique AB, Shahriar H, Uddin MN, Islam T, Graziano JH, Gamble MV. (2021) Betaine and choline status modify the effects of folic acid and creatine supplementation on arsenic methylation in a randomized controlled trial of Bangladeshi adults. *Eur J Nutr*, 60(4):1921-1934. PMCID: [32918135](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7947037/). 
+
+Domingo-Relloso A, **Bozack A**, Kiihl S, Rodriguez-Hernandez Z, Rentero-Garrido P, Casasnovas JA, Leon-Latre M, Garcia-Barrera T, Gomez-Ariza JL, Moreno B, Cenarro A, de Marco G, Parvez F, Siddique AB, Shahriar H, Uddin MN, Islam T, Navas-Acien A, Gamble M, Tellez-Plaza M. (2021) Arsenic exposure and human blood DNA methylation and hydroxymethylation profiles in two diverse populations from Bangladesh and Spain. *Environ Res*, 204(Pt B):112021. PMCID: [34516978](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8734953/).   
+
+Abuawad A, **Bozack AK**, Saxena R, Gamble MV. (2021) Nutrition, one-carbon metabolism and arsenic methylation. *Toxicology*, 15;457:152803. PMCID: [33905762](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8349595/).   
+
+**Bozack AK**, Domingo-Relloso A, Haack K, Gamble MV, Tellez-Plaza M, Umans JG, Best LG, Yracheta J, Gribble MO, Cardenas A, Francesconi KA, Goessler W, Tang W-Y, Fallin MD, Cole SA, Navas-Acien A. (2020) Locus-specific differential DNA methylation and urinary arsenic: an epigenome-wide association study in blood among adults with low-to-moderate arsenic exposure. *Environ Health Perspect*, 128(6):67015. PMCID: [32603190](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7534587/).
+        
+**Bozack AK**, Cardenas A, Geldhof J, Quamruzzaman Q, Rahman M, Mostofa G, Christiani DC, Kile ML. (2020) Cord blood DNA methylation of *DNMT3A* mediates the association between in utero arsenic exposure and birth outcomes: results from a prospective birth cohort in Bangladesh. *Environ Res*, Apr;183:109134. PMCID: [32018205](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7167334/).
+
+Domingo-Relloso A, Riffo-Campos AL, Haack K, Rentero-Garrido P, Ladd-Acosta C, Fallin DM, Tang WY, Herreros-Martinez M, Gonzalez JR, **Bozack AK**, Cole SA, Navas-Acien A, Tellez-Plaza M. (2020) Cadmium, smoking, and human blood DNA methylation profiles in adults from the Strong Heart Study. *Environ Health Perspect*, 128(6):67005. PMCID: [32484362](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7265996/).
+
+Colicino E, Cowell W, **Bozack AK**, Pedretti NF, Foppa Pedretti N, Joshi A, Niedzwiecki MM, Bollati V, Berin C, Wright RO, Wright RJ. (2020) Association between prenatal immune phenotyping and cord blood leukocyte telomere length in the PRISM pregnancy cohort. *Envron Res*, 191:110113. PMCID: [32841635](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7883408/).
+    
+**Bozack AK**, Hall MN, Liu X, Ilievski V, Lomax-Luu AM, Parvez F, Siddique AB, Shahriar H, Uddin MN, Islam T, Graziano JH, Gamble MV. (2019) Folic acid supplementation enhances arsenic methylation: results from a folic acid and creatine supplementation randomized controlled trial in Bangladesh. *Am J Clin Nutr*, 109(2):380-391. PMCID: [30590411](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6367980/).
+
+Navas-Acien A, Spratlen MJ, Abuawad A, LoIacono NJ, **Bozack AK**, Gamble MV. (2019) Early-life arsenic exposure, nutritional status, and adult diabetes risk. *Curr Diab Rep*, 22;19(12):147. PMCID: [31758285](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7004311/).
+
+**Bozack AK**,* Cardenas A,* Quamruzzaman Q, Rahman M, Mostofa G, Christiani DC, Kile ML. (2018) DNA methylation in cord blood as mediator of the association between prenatal arsenic exposure and gestational age. *Epigenetics*, 13(9):923-940.  PMCID: [29799766](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6284783/). *These authors contributed equally to this work.
+    
+**Bozack A**,* Saxena R,* Gamble MV. (2018) Nutritional influences on one-carbon metabolism: effects on arsenic methylation and toxicity. *Annu Rev Nutr*, 38:401-429. PMCID: [29799766](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6441546/). *These authors contributed equally to this work.
+    
+Aidala AA, Wilson MG, Shubert V, Gogolishnili D, Globerman J, Rueda S, **Bozack A**, Caban M, Rourke SB. (2016) Housing status, medical Ccre, and health outcomes among people living With HIV/AIDS: a systematic review. *Am J Public Health*, 106(1):e1-e23. PMCID: [26562123](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc4695926/).
+
+López R, Chantarat T, **Bozack A**, Lopez A, Weiss L. (2015) Reducing childhood asthma triggers in public housing: implementation and outcomes from an East Harlem community health worker program. *Environmental Justice*, 8(5), 185-191. DOI: [10.1089/env.2015.0017](https://doi.org/10.1089/env.2015.0017)
+
+ **Bozack A**, Millstein S, Martinez Garcel J, Kelly K, Ruberto R, Weiss L. (2014) Implementation and outcomes of the New York State YMCA Diabetes Prevention Program: a multisite community-based translation, 2010-2012. *Prev Chronic Dis*, 11. PMCID: [25010997](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc4094004/).
+    
+Calman NS, Hauser D, Weiss L, Waltermaurer E, Molina-Ortiz E, Chantarat T,  **Bozack A**. (2013) Becoming a patient-centered medical home: a 9-Year transition for a network of Federally Qualified Health Centers. \textit{Ann Fam Med}, 11(Suppl. 1), 568-73. PMCID: [23690389](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc3707249/).
+
