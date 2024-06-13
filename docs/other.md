@@ -1,7 +1,9 @@
 # Other projects
 
-[BW tranformation](meehhhmaaoooo.com)
+### [BW tranformation](meehhhmaaoooo.com)
+
 Encode a message!
 
-[Activity plotting](https://github.com/annebozack/activityPlotting)
+### [Activity plotting](https://github.com/annebozack/activityPlotting)
+
 Code to parse data from strava and plot a gif of running and biking activities using R.
