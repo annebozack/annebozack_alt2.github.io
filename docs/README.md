@@ -15,12 +15,8 @@ Anne Bozack is an Instructor in the (Department of Epidemiology and Population H
 
 [Google Scholar](https://scholar.google.com/citations?user=kSzZe7QAAAAJ) | [MyNCBI](https://www.ncbi.nlm.nih.gov/myncbi/anne.bozack.1/bibliography/public/) | (ORCID)[https://orcid.org/0000-0003-0046-5767] | [Github](https://github.com/annebozack) | [Email](mailto:abozack@stanford.edu) 
 
-## Source
+##
 
-View source on GitHub:
-
-[![MichaelCurrin - gh-pages-no-jekyll](https://img.shields.io/static/v1?label=MichaelCurrin&message=gh-pages-no-jekyll&color=blue&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
-
-
+Created using github pages template under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin)
 
 
