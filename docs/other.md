@@ -1,6 +1,6 @@
 # Other projects
 
-### [BW tranformation](https://www.meehhhmaaoooo.com)
+### [BW tranformation](www.meehhhmaaoooo.com)
 
 Encode a message!
 
