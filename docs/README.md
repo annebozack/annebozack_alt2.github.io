@@ -13,6 +13,8 @@ Anne Bozack is an Instructor in the Department of Epidemiology and Population He
 
 ##
 
+[Google Scholar](https://scholar.google.com/citations?user=kSzZe7QAAAAJ) | [MyNCBI](https://www.ncbi.nlm.nih.gov/myncbi/anne.bozack.1/bibliography/public/) | [Github](https://github.com/annebozack) | [Email](mailto:abozack@stanford.edu) 
+
 ## Source
 
 View source on GitHub:
