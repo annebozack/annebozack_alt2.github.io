@@ -8,9 +8,9 @@ Anne Bozack is an Instructor in the [Department of Epidemiology and Population H
 
 ## Menu
 
-- <a href="publications.md" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Publications</a>
-- <a href="packages.md" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Packages</a>
-- <a href="other.md" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Other projects</a>
+- [Publications](publications.md)
+- [Packages](packages.md)
+- [Other projects](other.md)
 
 
 [Google Scholar](https://scholar.google.com/citations?user=kSzZe7QAAAAJ)  [MyNCBI](https://www.ncbi.nlm.nih.gov/myncbi/anne.bozack.1/bibliography/public/)  [ORCID](https://orcid.org/0000-0003-0046-5767)  [Github](https://github.com/annebozack)  [Email](mailto:abozack@stanford.edu) 
