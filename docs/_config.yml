@@ -8,4 +8,4 @@ url: "http://annebozack.github.io" # the base hostname & protocol for your site
 twitter_username: annebozack
 github_username:  annebozack
 
-theme: pages-themes-minimal
+theme: jekyll-theme-minimal
